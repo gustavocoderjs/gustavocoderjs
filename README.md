@@ -8,7 +8,7 @@ Recentemente completei 9 meses de estágio para o Serpro no cargo de Product Ana
 
 ---
 
-####  🌌 Linguagens e Tecnologias
+##  🌌 Linguagens e Tecnologias
  
 
 <img align="left"
