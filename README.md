@@ -40,12 +40,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 <br>
 
----
-
-#### 📊 Estatísticas
-
-![GitHub Status: gustavocoderjs](https://github-readme-stats.vercel.app/api?username=gustavocoderjs&show_icons=true&theme=tokyonight)
-
 
 
 
