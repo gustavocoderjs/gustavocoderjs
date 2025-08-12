@@ -5,7 +5,7 @@
 **'Analista de Dados'**
 
 Sou um estudante de Ciência da Computação - 4º Semestre. 
-Recentemente completei 10 meses de estágio para o Serpro no cargo de Product Analyst, este repositório visa documentar o avanço dos estudos e projetos pessoais na área de dados.
+Recentemente completei 11 meses de estágio no Serpro atuando na gestão dos produtos, este repositório visa documentar o avanço dos estudos e projetos pessoais na área de dados.
 
 ---
 
