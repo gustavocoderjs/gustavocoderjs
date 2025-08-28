@@ -1,11 +1,7 @@
 
-## 🚩 Olá, me chamo Gustavo Cordeiro!
+## 🚩**'Analytics Engineer**
 
-
-**'Analista de Dados'**
-
-Sou um estudante de Ciência da Computação - 4º Semestre. 
-Recentemente completei 11 meses de estágio no Serpro, atuando na gestão dos produtos, este repositório visa documentar o avanço dos estudos e projetos pessoais na área de dados.
+Estudante de Ciência da Computação (4º semestre) em desenvolvimento, um ano de experiência na área de dados estagiando no Serpro - Serviço Federal de Processamento de Dados. 
 
 ---
 
