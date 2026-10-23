@@ -8,7 +8,8 @@
 
 ## 💼 Experiência
 
-### 🏥 Grupo Amil — Analista de Dados Jr. | Atuarial & Riscos
+### 🏥 Grupo Amil 
+  Analista de Dados Jr. | Atuarial & Riscos
 - Apoio ao negócio na tomada de decisão estratégica da área atuarial, traduzindo necessidades do negócio em soluções de dados.
 - Pipelines ETL com **SQL e PySpark no Azure Databricks**, consumindo dados públicos da ANS.
 - Engenharia de dados no **Azure**: ingestão e orquestração com **Azure Data Factory**, Data Lake em camadas (**Bronze, Silver, Gold**) com **Delta Lake** no **Azure Data Lake Storage**.
@@ -17,7 +18,8 @@
 - Modelos preditivos e de segmentação (Regressão Linear, Logística e K-Means) para obrigações atuariais.
 - Dashboards em **Power BI** com KPIs como sinistralidade e variação de custos, além de apresentações executivas.
 
-### 🏛️ Serpro — Estagiário de Dados | Produtos Digitais
+### 🏛️ Serpro  
+  Estagiário de Dados | Produtos Digitais
 - Apresentações executivas de análises para a gerência, transformando dados em decisões valiosas para o negócio.
 - Melhoria de scripts e consultas no **PostgreSQL** visando performance, uso de **Python** para tratamento de dados e **Power BI** para acompanhamento de indicadores-chave.
 - Dados e analytics na **AWS**: armazenamento em **Amazon S3**, catalogação e transformação com **AWS Glue** e consultas SQL com **Amazon Athena**.
