@@ -18,8 +18,8 @@
 - Modelos preditivos e de segmentação (Regressão Linear, Logística e K-Means) para obrigações atuariais.
 - Dashboards em **Power BI** com KPIs como sinistralidade e variação de custos, além de apresentações executivas.
 
-### 🏛️ Serpro  
-  Estagiário de Dados | Produtos Digitais
+### 🏛️ Serpro (Serviço Federal de Processamento de Dados)
+  Estagiário em Product Analytics | Produtos Digitais
 - Apresentações executivas de análises para a gerência, transformando dados em decisões valiosas para o negócio.
 - Melhoria de scripts e consultas no **PostgreSQL** visando performance, uso de **Python** para tratamento de dados e **Power BI** para acompanhamento de indicadores-chave.
 - Dados e analytics na **AWS**: armazenamento em **Amazon S3**, catalogação e transformação com **AWS Glue** e consultas SQL com **Amazon Athena**.
