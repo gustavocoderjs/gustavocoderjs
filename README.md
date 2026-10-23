@@ -1,9 +1,9 @@
-# 👋 Olá! Sou Analytics Engineer | Data Engineer
+# 👋 Olá! Me chamo Gustavo
  
-### 🚩 Analista de Dados com **2 anos de experiência** em produtos digitais e saúde (riscos e atuarial)
+### 🚩 Sou Analista de Dados com **2 anos de experiência** atuando com nichos de produtos digitais (e-ccomerce) e saúde (riscos e atuarial)
  
-Transformo dados em decisões estratégicas unindo **visão de negócio**, **engenharia de dados** e **modelagem estatística**.
- 
+"Transformo dados em decisões estratégicas conectando visão de negócio, análise, ciência e engenharia de dados. Para isso, utilizo tecnologias como: Python, SQL, Databricks, Power BI e Cloud para gerar valor real às organizações."
+
 ---
  
 ### 💼 Experiência
