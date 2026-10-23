@@ -16,6 +16,8 @@ Transformo dados em decisões estratégicas unindo **visão de negócio**, **eng
 - Automação e CI/CD com **Azure DevOps**, versionamento de notebooks e gestão de recursos em nuvem
 - Modelos preditivos e de segmentação (Regressão Linear, Logística e K-Means) para obrigações atuariais
 - Dashboards em **Power BI** com KPIs como sinistralidade e variação de custos, além de apresentações executivas
+
+- 
 **🏛️ Serpro — Estagiário de Dados | Produtos Digitais**
 - Apresentações executivas de análises para a gerência, transformando dados em decisões valiosas para o negócio
 - Melhoria de scripts e consultas no **PostgreSQL** visando performance, uso do **Python** para tratamento dos dados e **Power BI** para acompanhamento de indicadores-chave
