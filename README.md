@@ -2,7 +2,7 @@
 
 ### 🚩 Sou Analista de Dados com **2 anos de experiência** atuando nos nichos de produtos digitais (e-commerce) e saúde (riscos e atuarial).
 
-> "Transformo dados em decisões estratégicas conectando visão de negócio, análise, ciência e engenharia de dados. Para isso, utilizo tecnologias como: Python, SQL, Databricks, Power BI e Cloud para gerar valor real às organizações."
+> Transformo dados em decisões estratégicas conectando visão de negócio, análise, ciência e engenharia de dados. Para isso, utilizo tecnologias como: Python, SQL, Databricks, Power BI e Cloud para gerar valor real às organizações.
 
 ---
 
