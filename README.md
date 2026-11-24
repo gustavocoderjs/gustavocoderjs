@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Gustavo
 
-### 🚩 Sou Analista de Dados com **2 anos de experiência** atuando nos nichos de produtos digitais (e-commerce) e saúde (riscos e atuarial).
+### 🚩 Possuo **2 anos de experiência** na área de Data Science, atuando nos nichos de produtos digitais (e-commerce) e saúde (riscos e atuarial).
 
 > Transformo dados em decisões estratégicas conectando visão de negócio, análise, ciência e engenharia de dados. Para isso, utilizo tecnologias como: Python, SQL, Databricks, Power BI e Cloud para gerar valor real às organizações.
 
@@ -9,7 +9,7 @@
 ## 💼 Experiência
 
 ### 🏥 Grupo Amil 
-  Analista de Dados Jr. | Atuarial & Riscos
+  Cientista de Dados Júnior | Atuarial & Riscos
 - Apoio ao negócio na tomada de decisão estratégica da área atuarial, traduzindo necessidades do negócio em soluções de dados.
 - Pipelines ETL com **SQL e PySpark no Azure Databricks**, consumindo dados públicos da ANS.
 - Engenharia de dados no **Azure**: ingestão e orquestração com **Azure Data Factory**, Data Lake em camadas (**Bronze, Silver, Gold**) com **Delta Lake** no **Azure Data Lake Storage**.
